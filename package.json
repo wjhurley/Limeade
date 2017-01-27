@@ -1,0 +1,29 @@
+{
+  "name": "limeade",
+  "version": "1.0.0",
+  "description": "Selenium WebDriver automation tool for Limeade admin tasks",
+  "main": "index.js",
+  "dependencies": {
+    "chromedriver": "^2.27.2",
+    "selenium-webdriver": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjhurley/Limeade.git"
+  },
+  "keywords": [
+    "Limeade",
+    "Selenium",
+    "WebDriver"
+  ],
+  "author": "William Hurley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wjhurley/Limeade/issues"
+  },
+  "homepage": "https://github.com/wjhurley/Limeade#readme"
+}
